@@ -1,0 +1,134 @@
+feature,modality,source,normalization,primary_model_feature
+mri_right_amygdala_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_amygdala_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_caudate_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_caudate_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_hippocampus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_hippocampus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_pallidum_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_pallidum_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_putamen_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_putamen_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_thalamus_proper_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_thalamus_proper_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_acgg_anterior_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_acgg_anterior_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_ang_angular_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_ang_angular_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_calc_calcarine_cortex_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_calc_calcarine_cortex_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_cun_cuneus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_cun_cuneus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_fug_fusiform_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_fug_fusiform_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_gre_gyrus_rectus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_gre_gyrus_rectus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_iog_inferior_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_iog_inferior_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_itg_inferior_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_itg_inferior_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_lig_lingual_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_lig_lingual_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_mcgg_middle_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_mcgg_middle_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_mfg_middle_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_mfg_middle_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_mog_middle_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_mog_middle_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_mtg_middle_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_mtg_middle_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_opifg_opercular_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_opifg_opercular_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_orifg_orbital_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_orifg_orbital_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_pcgg_posterior_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_pcgg_posterior_cingulate_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_pcu_precuneus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_pcu_precuneus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_phg_parahippocampal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_phg_parahippocampal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_pog_postcentral_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_pog_postcentral_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_prg_precentral_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_prg_precentral_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_sfg_superior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_sfg_superior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_smc_supplementary_motor_cortex_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_smc_supplementary_motor_cortex_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_smg_supramarginal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_smg_supramarginal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_sog_superior_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_sog_superior_occipital_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_spl_superior_parietal_lobule_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_spl_superior_parietal_lobule_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_stg_superior_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_stg_superior_temporal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_right_trifg_triangular_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+mri_left_trifg_triangular_part_of_the_inferior_frontal_gyrus_icv_fraction,MRI,MUSE segmentation,regional volume / official MUSE ICV,True
+pet_Precentral_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Precentral_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Sup_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Sup_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Mid_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Mid_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Oper_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Oper_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Tri_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Tri_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Orb_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Frontal_Inf_Orb_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Supp_Motor_Area_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Supp_Motor_Area_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Rectus_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Rectus_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Ant_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Ant_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Mid_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Mid_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Post_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cingulum_Post_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Hippocampus_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Hippocampus_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_ParaHippocampal_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_ParaHippocampal_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Amygdala_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Amygdala_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Calcarine_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Calcarine_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cuneus_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Cuneus_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Lingual_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Lingual_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Sup_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Sup_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Mid_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Mid_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Inf_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Occipital_Inf_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Fusiform_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Fusiform_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Postcentral_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Postcentral_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Parietal_Sup_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Parietal_Sup_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_SupraMarginal_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_SupraMarginal_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Angular_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Angular_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Precuneus_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Precuneus_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Caudate_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Caudate_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Putamen_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Putamen_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Pallidum_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Pallidum_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Thalamus_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Thalamus_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Sup_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Sup_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Mid_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Mid_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Inf_L_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_Temporal_Inf_R_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True
+pet_target_panel_mean_cerebellar_ratio,PET,normalized AV45 PET with AAL-SPM12,regional uptake / AAL cerebellar reference,True

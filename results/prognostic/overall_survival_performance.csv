@@ -1,0 +1,2 @@
+metric,value_percent,ci_95_low_percent,ci_95_high_percent,bootstrap_repetitions
+Harrell C-index,67.8252845278376,61.827956746734024,73.73003564973801,5000

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "pair_inventory": "../data/processed/adni2_inventory/pet_mri_acq_date_pairs.csv",
+    "nifti_inventory": "../data/processed/adni2_inventory/nifti_inventory.csv",
+    "feature_table": "../data/processed/adni2_features/multimodal_features_wide.csv",
+    "feature_dictionary": "../data/processed/adni2_features/feature_dictionary.csv",
+    "optional_metadata": "../data/private/ADNI2_metadata.csv"
+  },
+  "output_dir": "../results/diagnosis",
+  "random_seed": 20260815,
+  "pairing_window_days": 90,
+  "graph": {
+    "top_k_neighbours": 6,
+    "selected_regions": 15
+  },
+  "gnn": {
+    "hidden_dim": 24,
+    "layers": 2,
+    "dropout": 0.30,
+    "learning_rate": 0.005,
+    "weight_decay": 0.0001,
+    "batch_size": 32,
+    "max_epochs": 150,
+    "patience": 20,
+    "validation_fraction": 0.20
+  },
+  "cross_validation": {
+    "outer_folds": 5,
+    "outer_repeats": 5,
+    "inner_folds": 4,
+    "bootstrap_repetitions": 2000,
+    "classification_threshold": 0.5,
+    "logistic_C": [0.01, 0.1, 1.0, 10.0],
+    "cox_penalizer": [0.01, 0.1, 1.0, 10.0]
+  },
+  "survival": {
+    "horizons_years": [2.0, 3.0, 5.0],
+    "minimum_events": 10
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "profile_date": "2026-09-13",
+  "device": {
+    "manufacturer": "HP",
+    "model": "HP Pavilion Laptop 15-eg0xxx",
+    "serial_number_recorded": false
+  },
+  "processor": {
+    "model": "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz",
+    "physical_cores": 4,
+    "logical_processors": 8,
+    "reported_max_clock_mhz": 2803,
+    "l2_cache_kib": 5120,
+    "l3_cache_kib": 12288
+  },
+  "memory": {
+    "installed_nominal_gib": 16,
+    "os_visible_bytes": 16934494208,
+    "modules": 2,
+    "capacity_per_module_bytes": 8589934592,
+    "manufacturer": "Nanya Technology",
+    "type": "DDR4",
+    "configured_speed_mt_s": 3200,
+    "form_factor": "SODIMM"
+  },
+  "storage": {
+    "model": "NVMe SK hynix BC711 HFM512GD3JX013N",
+    "interface": "NVMe (reported through the Windows SCSI storage interface)",
+    "nominal_capacity_bytes": 512105932800
+  },
+  "graphics": {
+    "model": "Intel(R) Iris(R) Xe Graphics",
+    "type": "integrated",
+    "driver_version": "31.0.101.4502",
+    "wmi_reported_adapter_memory_bytes": 1073741824,
+    "used_by_timed_classifier": false
+  },
+  "operating_system": {
+    "name": "Microsoft Windows 11 Home",
+    "version": "10.0.26200",
+    "build": "26200",
+    "architecture": "64-bit"
+  },
+  "firmware": {
+    "bios_vendor": "Insyde",
+    "bios_version": "F.44",
+    "bios_release_date": "2023-08-08"
+  },
+  "source": "Local read-only Windows hardware inventory; serial numbers deliberately excluded"
+}

@@ -1,0 +1,16 @@
+importance_rank,region_index,region,importance_score,selection_frequency
+1,2,Left hippocampus,0.06245138304075226,0.96
+2,10,Left middle temporal gyrus,0.062140784908551724,1.0
+3,3,Right hippocampus,0.0604250633829882,0.8
+4,14,Left precuneus,0.05905945081441612,0.88
+5,11,Right middle temporal gyrus,0.05890575275134926,1.0
+6,61,Right superior frontal gyrus,0.058679293541597045,0.8
+7,33,Right cuneus,0.05762751787015435,0.76
+8,17,Right parahippocampal gyrus,0.05664745810265675,0.88
+9,32,Left cuneus,0.05644168383949693,0.68
+10,0,Left amygdala,0.0563491617848521,0.52
+11,53,Right precentral gyrus,0.05634435864420256,0.72
+12,15,Right precuneus,0.056177160000560555,0.84
+13,60,Left superior frontal gyrus,0.05424575416492225,0.56
+14,26,Left thalamus,0.05368879483343564,0.36
+15,22,Left putamen,0.05354867566862752,0.24

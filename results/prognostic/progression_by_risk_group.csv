@@ -1,0 +1,9 @@
+risk_group,participants,horizon_months,observed_cumulative_percent,mean_predicted_percent
+Lower predicted risk,80,6,10.0,9.505217432923443
+Lower predicted risk,80,12,17.5,22.73739004731868
+Lower predicted risk,80,18,31.25,36.4276884479832
+Lower predicted risk,80,24,35.0,42.919385686238776
+Higher predicted risk,79,6,16.455696202531644,17.717018571558167
+Higher predicted risk,79,12,43.037974683544306,39.41243109695123
+Higher predicted risk,79,18,60.75949367088608,58.29263023426663
+Higher predicted risk,79,24,70.88607594936708,65.70893636269135
